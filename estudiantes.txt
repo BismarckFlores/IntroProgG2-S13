@@ -1,0 +1,2 @@
+55555|Luis Carlos|Reyes Fernandez|Ing. Sistemas|Matematicas|100.0|100.0|100.0|100.00|APROBADO
+12345|Andres Rolando|Mercado Urroz|Ing. Industrial|Calculo II|100.0|75.0|82.0|85.67|APROBADO
